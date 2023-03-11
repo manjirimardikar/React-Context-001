@@ -13,7 +13,7 @@ const light = { color: "black", backgroundColor: "white", width: "100%" };
 
     return(
       <div className="about" style={context.theme ? dark : light}> 
-      <h1>You can mail me at help@NoahNirmal.in</h1>
+      <h1>You can mail me at help@manjari.mardikar.in</h1>
       </div>
     )
 
